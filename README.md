@@ -10,15 +10,11 @@ This is a simple **Cafe Menu** webpage built using only **HTML** and **CSS** as 
 ## 📄 How to Use  
 You can view the project directly through **GitHub Pages**.  
 
-🔗 **[Click here to open the Café Menu](https://yourusername.github.io/repository-name/)**  
+🔗 **[Click here to open the Cafe Menu](https://harllonmartins.github.io/cafe-menu/)**  
 
 ## 🛠️ Technologies Used  
 - **HTML** for structure  
 - **CSS** for styling  
 
 ## 📌 About  
-This project was created to practice **HTML & CSS basics**, including typography, layout, and styling.  
-
----
-
-Se precisar de alguma modificação, me avise! 🚀😊
+This project was created to practice **HTML & CSS basics**, including typography, layout, and styling.
